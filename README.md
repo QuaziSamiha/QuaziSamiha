@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-samiha-9l45-quazi-samiha-tasnims-projects.vercel.app/](https://portfolio-samiha-9l45-quazi-samiha-tasnims-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-kappa-two-24.vercel.app/](https://portfolio-kappa-two-24.vercel.app/)
 
 - 💬 Ask me about **React, JavaScript**
 
