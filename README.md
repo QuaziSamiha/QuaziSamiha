@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Quazi Samiha Tasnim 👋</h1>
-<h3 align="center">Full Stack Developer building with Next.js, NestJS & PostgreSQL</h3>
+<h1 align="center">Hi, I'm Quazi Samiha Tasnim 👋</h1>
+<h3 align="center">Junior Frontend Developer @ ATI Limited · Building Full-Stack with Next.js, NestJS & PostgreSQL</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=quazisamiha&label=Profile%20views&color=6366f1&style=flat" alt="quazisamiha" />
@@ -10,20 +10,33 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Building+full-stack+apps+with+Next.js+%2B+NestJS;PostgreSQL+%2B+Prisma+is+my+go-to+data+layer;Currently+shipping+Bistro-Boss;Always+down+to+collaborate+on+MERN+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-stack+dev+with+Next.js+%2B+NestJS+%2B+PostgreSQL;Turning+messy+requirements+into+clean%2C+typed+APIs;Currently+building+e-commerce+%26+hospital+platforms;MSc+in+CSE+%40+BUET+%7C+NLP+thesis+in+progress;Deep+in+OOP%2C+SOLID+%26+GoF+Design+Patterns" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🚀 I build end-to-end web apps — **Next.js** on the frontend, **NestJS** powering the API layer
-- 🗄️ **PostgreSQL** is my database of choice, with **Prisma** as the ORM that ties it all together
-- 🔭 Currently working on **Bistro-Boss**
-- 🌱 Currently deepening my knowledge of **Redux**
-- 👯 Open to collaborating on **MERN / full-stack** projects
-- 💬 Ask me about **Next.js, NestJS, React, TypeScript, PostgreSQL, Prisma**
-- ⚡ Fun fact: I like turning messy requirements into clean, typed APIs
+- 🏢 Working as a **Junior Frontend Developer at ATI Limited** (Dhaka, Bangladesh) — in practice, shipping full-stack features end-to-end
+- 🎓 Pursuing an **MSc in CSE at BUET** (part-time) with a planned **NLP thesis**, on top of a **BSc in CSE from RUET**
+- 🗄️ **Next.js + NestJS + PostgreSQL + Prisma** is my everyday stack, with a hexagonal / feature-first architecture mindset
+- 🧠 Currently deep-diving into **OOP fundamentals, SOLID principles, and GoF Design Patterns** — following a self-built roadmap from junior → software engineer
+- 🏗️ Tech lead & database designer on a **Hospital Management System**, working on DTO/Swagger design, structured API responses, and modular NestJS architecture
+- 🤖 I use AI coding tools (**Claude Code, ChatGPT, Gemini, DeepSeek**) as accelerators — always verifying and understanding what they generate, never shipping blind
+- 📈 **Growth roadmap:** Docker, automated testing, scalable API design, SaaS architecture, and deeper AI workflow integration
+- 💬 Ask me about **Next.js, NestJS, TypeScript, PostgreSQL, Prisma, API design, or design patterns**
+
+---
+
+### 🚀 What I'm Building
+
+| Project | What it is |
+|---|---|
+| **THP (Thai Health Product)** | Full-stack e-commerce platform — Next.js frontend, NestJS backend, Prisma/PostgreSQL |
+| **Natura Care** | E-commerce platform with GA4 analytics integration (Data API, service account auth, parallel reporting) |
+| **KYAMCH-BRS** | Hospital management / bed reservation system — backend architecture & database design |
+| **Laan POS** | Point-of-sale system, full-stack development |
+| **Her Power** | Full-stack web application |
 
 ---
 
@@ -45,23 +58,40 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </p>
 
-**Tools**
+**Tools & AI Workflow**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
 
 ---
 
-### 📌 Featured Project
+### 📌 Pinned Projects
 
-<a href="https://github.com/quazisamiha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quazisamiha&repo=Bistro-Boss&theme=tokyonight" />
-</a>
+> *Swap the repo names below for your actual public repo names — this pins THP and Natura Care as the featured work.*
 
-*(Swap `Bistro-Boss` above for the exact repo name if it differs — happy to pin more than one project.)*
+<p align="center">
+  <a href="https://github.com/quazisamiha">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quazisamiha&repo=thai-health-product-server&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/quazisamiha">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quazisamiha&repo=natura-care&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+### 🎯 Currently Leveling Up
+
+- 🧩 Deepening **OOP & GoF Design Patterns** (Creational, Structural, Behavioral) in TypeScript/NestJS
+- 📐 Practicing **API design best practices** — versioning, pagination, caching (`ETag`, `Cache-Control`, `stale-while-revalidate`), rate limiting
+- 🐳 Learning **Docker** and building toward **automated testing** and **scalable, SaaS-ready architecture**
+- 📝 Preparing my **MSc thesis in NLP** at BUET
 
 ---
 
@@ -95,4 +125,4 @@
 <a href="mailto:quazisamiha@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/quazisamiha">quazisamiha</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/quazisamiha">quazisamiha</a> — building, breaking, and rebuilding, one typed API at a time.</i></p>
