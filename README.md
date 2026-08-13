@@ -72,21 +72,20 @@
 
 ### 📌 Pinned Projects
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/QuaziSamiha/thai-health-product-server">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuaziSamiha&repo=thai-health-product-server&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/THP-Server-6366f1?style=for-the-badge&logo=nestjs&logoColor=white" />
   </a>
   <a href="https://github.com/QuaziSamiha/thai-health-product-client">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuaziSamiha&repo=thai-health-product-client&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/THP-Client-6366f1?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/QuaziSamiha/natura-care-server">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuaziSamiha&repo=natura-care-server&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/Natura_Care-Server-10b981?style=for-the-badge&logo=nestjs&logoColor=white" />
   </a>
   <a href="https://github.com/QuaziSamiha/natura-care-client">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuaziSamiha&repo=natura-care-client&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/Natura_Care-Client-10b981?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   </a>
 </p>
 
