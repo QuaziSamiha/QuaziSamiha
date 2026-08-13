@@ -2,7 +2,7 @@
 <h3 align="center">Junior Frontend Developer @ ATI Limited · Building Full-Stack with Next.js, NestJS & PostgreSQL</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=quazisamiha&label=Profile%20views&color=6366f1&style=flat" alt="quazisamiha" />
+  <img src="https://komarev.com/ghpvc/?username=QuaziSamiha&label=Profile%20views&color=6366f1&style=flat" alt="quazisamiha" />
   <a href="https://linkedin.com/in/quazi-samiha-tasnim"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:quazisamiha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.leetcode.com/samiha2k22"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
@@ -20,11 +20,11 @@
 - 🏢 Working as a **Junior Frontend Developer at ATI Limited** (Dhaka, Bangladesh) — in practice, shipping full-stack features end-to-end
 - 🎓 Pursuing an **MSc in CSE at BUET** (part-time) with a planned **NLP thesis**, on top of a **BSc in CSE from RUET**
 - 🗄️ **Next.js + NestJS + PostgreSQL + Prisma** is my everyday stack, with a hexagonal / feature-first architecture mindset
-- 🧠 Currently deep-diving into **OOP fundamentals, SOLID principles, and GoF Design Patterns** — following a self-built roadmap from junior → software engineer
-- 🏗️ Tech lead & database designer on a **Hospital Management System**, working on DTO/Swagger design, structured API responses, and modular NestJS architecture
+- 🧠 Currently deep-diving into **OOP fundamentals and SOLID principles** — following a self-built roadmap from junior → software engineer
+- 🏗️ Building modular, well-structured NestJS APIs — DTO/Swagger design, structured API responses, and clean folder architecture
 - 🤖 I use AI coding tools (**Claude Code, ChatGPT, Gemini, DeepSeek**) as accelerators — always verifying and understanding what they generate, never shipping blind
 - 📈 **Growth roadmap:** Docker, automated testing, scalable API design, SaaS architecture, and deeper AI workflow integration
-- 💬 Ask me about **Next.js, NestJS, TypeScript, PostgreSQL, Prisma, API design, or design patterns**
+- 💬 Ask me about **Next.js, NestJS, TypeScript, PostgreSQL, Prisma, or API design**
 
 ---
 
@@ -34,8 +34,7 @@
 |---|---|
 | **THP (Thai Health Product)** | Full-stack e-commerce platform — Next.js frontend, NestJS backend, Prisma/PostgreSQL |
 | **Natura Care** | E-commerce platform with GA4 analytics integration (Data API, service account auth, parallel reporting) |
-| **KYAMCH-BRS** | Hospital management / bed reservation system — backend architecture & database design |
-| **Laan POS** | Point-of-sale system, full-stack development |
+| **Laan POS** | Point-of-sale system — frontend development |
 | **Her Power** | Full-stack web application |
 
 ---
@@ -73,14 +72,21 @@
 
 ### 📌 Pinned Projects
 
-> *Swap the repo names below for your actual public repo names — this pins THP and Natura Care as the featured work.*
+<p align="center">
+  <a href="https://github.com/QuaziSamiha/thai-health-product-server">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuaziSamiha&repo=thai-health-product-server&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/QuaziSamiha/thai-health-product-client">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuaziSamiha&repo=thai-health-product-client&theme=tokyonight" />
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://github.com/quazisamiha">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quazisamiha&repo=thai-health-product-server&theme=tokyonight" />
+  <a href="https://github.com/QuaziSamiha/natura-care-server">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuaziSamiha&repo=natura-care-server&theme=tokyonight" />
   </a>
-  <a href="https://github.com/quazisamiha">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quazisamiha&repo=natura-care&theme=tokyonight" />
+  <a href="https://github.com/QuaziSamiha/natura-care-client">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuaziSamiha&repo=natura-care-client&theme=tokyonight" />
   </a>
 </p>
 
@@ -88,8 +94,8 @@
 
 ### 🎯 Currently Leveling Up
 
-- 🧩 Deepening **OOP & GoF Design Patterns** (Creational, Structural, Behavioral) in TypeScript/NestJS
-- 📐 Practicing **API design best practices** — versioning, pagination, caching (`ETag`, `Cache-Control`, `stale-while-revalidate`), rate limiting
+- 🧩 Deepening **OOP fundamentals and SOLID principles** in TypeScript/NestJS
+- 📐 Practicing **API design best practices** — versioning, pagination, and rate limiting
 - 🐳 Learning **Docker** and building toward **automated testing** and **scalable, SaaS-ready architecture**
 - 📝 Preparing my **MSc thesis in NLP** at BUET
 
@@ -98,20 +104,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=quazisamiha&show_icons=true&theme=tokyonight&count_private=true" alt="quazisamiha stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quazisamiha&layout=compact&theme=tokyonight" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=QuaziSamiha&show_icons=true&theme=tokyonight&count_private=true" alt="quazisamiha stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuaziSamiha&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quazisamiha&theme=tokyonight" alt="quazisamiha streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuaziSamiha&theme=tokyonight" alt="quazisamiha streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quazisamiha&theme=tokyonight&row=1&column=6" alt="quazisamiha trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=QuaziSamiha&theme=tokyonight&row=1&column=6" alt="quazisamiha trophies" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quazisamiha&theme=tokyo-night&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=QuaziSamiha&theme=tokyo-night&hide_border=true" alt="activity graph" />
 </p>
 
 ---
@@ -125,4 +131,4 @@
 <a href="mailto:quazisamiha@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/quazisamiha">quazisamiha</a> — building, breaking, and rebuilding, one typed API at a time.</i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/QuaziSamiha">quazisamiha</a> — building, breaking, and rebuilding, one typed API at a time.</i></p>
