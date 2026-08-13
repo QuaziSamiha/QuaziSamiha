@@ -100,23 +100,29 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=QuaziSamiha&show_icons=true&theme=tokyonight&count_private=true" alt="quazisamiha stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuaziSamiha&layout=compact&theme=tokyonight" alt="top langs" />
+  <a href="https://github.com/QuaziSamiha">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=QuaziSamiha&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=10b981&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="stats" />
+  </a>
+  <a href="https://github.com/QuaziSamiha">
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuaziSamiha&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="top langs" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuaziSamiha&theme=tokyonight" alt="quazisamiha streak" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=QuaziSamiha&hide_border=true&background=0D1117&stroke=6366f1&ring=10b981&fire=10b981&currStreakLabel=6366f1&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=QuaziSamiha&theme=tokyonight&row=1&column=6" alt="quazisamiha trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=QuaziSamiha&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="trophies" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=QuaziSamiha&theme=tokyo-night&hide_border=true" alt="activity graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=QuaziSamiha&bg_color=0d1117&color=c9d1d9&line=6366f1&point=10b981&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
 </p>
 
 ---
