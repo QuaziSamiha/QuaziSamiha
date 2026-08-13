@@ -35,7 +35,7 @@
 | **THP (Thai Health Product)** | Full-stack e-commerce platform — Next.js frontend, NestJS backend, Prisma/PostgreSQL |
 | **Natura Care** | E-commerce platform with GA4 analytics integration (Data API, service account auth, parallel reporting) |
 | **Laan POS** | Point-of-sale system — frontend development |
-| **Her Power** | Full-stack web application |
+| **Her Power** | Frontend development |
 
 ---
 
